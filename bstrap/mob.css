@@ -1,0 +1,21 @@
+.mob{
+    padding-left: 48px;
+    margin-left: -34px;
+    margin-right: 18px;
+}
+ul {
+    list-style: none;
+    margin-left: -4%;
+  }
+  
+  ul li:before {
+    content: '✓';
+    margin-right: 2%;
+  }
+.first{
+    border: 1px solid rgba(239,239,239,255);
+    background-color: rgba(239,239,239,255);
+    height: 470px;
+    width: 350px;
+    border-radius: 10px;
+}
